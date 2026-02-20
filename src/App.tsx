@@ -85,7 +85,7 @@ export default function App() {
     <div className="min-h-screen font-sans text-slate-800 selection:bg-red-600 selection:text-white bg-slate-100">
       <AnimatedBackground />
 
-      {/* Top Header: KR GROUPE & AD Logo */}
+      {/* Top Header: KR GROUP & AD Logo */}
       <div className="relative z-50 pt-4 px-6 max-w-7xl mx-auto flex flex-col items-center">
         <div className="w-full flex justify-between items-center mb-0">
           <div className="md:hidden">
@@ -105,7 +105,7 @@ export default function App() {
             className="text-center"
           >
             <span className="text-xl md:text-2xl font-black tracking-[0.2em] text-[#E30613] uppercase drop-shadow-sm">
-              KR GROUPE
+              KR GROUP
             </span>
           </motion.div>
 
@@ -202,8 +202,8 @@ export default function App() {
               <div className="relative">
                 <div className="absolute -inset-4 bg-red-600/5 blur-xl rounded-3xl" />
                 <img 
-                  src="https://images.unsplash.com/photo-1617469767053-d3b523a0b982?auto=format&fit=crop&q=80&w=1000" 
-                  alt="Service Valet Innovant" 
+                  src="https://images.unsplash.com/photo-1625047509168-a7026f36de04?auto=format&fit=crop&q=80&w=1000" 
+                  alt="Remise des clés dans le garage" 
                   className="relative rounded-3xl shadow-2xl border border-slate-200"
                   referrerPolicy="no-referrer"
                 />
@@ -491,7 +491,7 @@ export default function App() {
                 </div>
                 <div>
                   <div className="font-black text-slate-900 text-lg uppercase tracking-widest mb-1">Email</div>
-                  <p className="text-slate-500">autoreparisaulny@gmail.com</p>
+                  <p className="text-slate-500">autoreparis93600@hotmail.fr</p>
                 </div>
               </div>
               <div className="flex gap-6 group">
@@ -563,14 +563,14 @@ export default function App() {
               <h4 className="font-bold mb-6 uppercase tracking-widest text-xs text-red-600">Contact</h4>
               <ul className="space-y-4 text-slate-600">
                 <li className="flex items-center gap-3"><Phone className="w-4 h-4" /> 01 48 69 92 33</li>
-                <li className="flex items-center gap-3"><Mail className="w-4 h-4" /> autoreparisaulny@gmail.com</li>
+                <li className="flex items-center gap-3"><Mail className="w-4 h-4" /> autoreparis93600@hotmail.fr</li>
                 <li className="flex items-center gap-3"><MapPin className="w-4 h-4" /> 93600 Aulnay-sous-Bois</li>
               </ul>
             </div>
           </div>
 
           <div className="pt-10 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center gap-6 text-sm text-slate-500">
-            <p>© 2024 Auto Reparis. Tous droits réservés. KR GROUPE.</p>
+            <p>© 2024 Auto Reparis. Tous droits réservés. KR GROUP.</p>
             <div className="flex gap-8">
               <a href="#" className="hover:text-red-600 transition-colors">Mentions Légales</a>
               <a href="#" className="hover:text-red-600 transition-colors">Confidentialité</a>

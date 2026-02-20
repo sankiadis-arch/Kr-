@@ -1,5 +1,7 @@
 {
-  "name": "Auto Reparis - KR Group",
+  "name": "Auto Reparis - KR Group 2",
   "description": "Garage automobile professionnel à Aulnay-sous-Bois. Mécanique, électronique, carrosserie et service innovant de récupération/livraison de véhicule.",
-  "requestFramePermissions": ["geolocation"]
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
